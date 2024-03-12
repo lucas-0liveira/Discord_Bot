@@ -1,4 +1,4 @@
-#Discord Bot
+# Discord Bot
 
 ![ReconBolt](Recon%20Bolt.jpeg)
 
