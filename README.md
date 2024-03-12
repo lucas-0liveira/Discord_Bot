@@ -1,6 +1,6 @@
 #Discord Bot
 
-![ReconBolt] (Recon Bolt.jpeg)
+![ReconBolt](Recon%20Bolt.jpeg)
 
 ## Descrição
 
