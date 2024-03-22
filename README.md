@@ -14,4 +14,4 @@ Bot criado para ajudar a controlar a entrada de usuários no servidor do Discord
 
 - Caso não tenha nenhuma foto no seu servidor, pode ficar tranquilo, o bot vai fornecer uma foto de perfil de forma automática pois já deixei programado para ele adicionar no seu servidor do discord;
 
-- Quando for hospedar o seu bot no site Square Cloud ou Discloud, ele vai mostrar um evento que onde vai mostrar que o seu bot está online;
+- Quando for hospedar o seu bot no site Square Cloud ou Discloud, ele vai mostrar um evento que onde vai mostrar que o seu bot está online; 
