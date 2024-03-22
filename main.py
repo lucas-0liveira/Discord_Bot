@@ -32,8 +32,6 @@ async def on_member_join(member):
 
     await bem_vindo.send(embed=embed)
 
-@bot.event #evento que ele mostra que o seu bot está online
-async def on_ready():
-    print(f'O {bot.user.name} está online ')
+
 
 bot.run('bot_token') #aqui é aonde vai o token do seu bot para fazer com que ele funcione no servidor. Obs: não esqueça de colocar o token do bot dentro da aspas simples ('').
